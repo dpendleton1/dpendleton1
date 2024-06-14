@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
+
 The repositories in my dpendleton1 GitHub account are scientific products and are not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are mine and do not necessarily reflect the views of NOAA or the Department of Commerce. In addition, this account may have forked repositories that are not my work.
 
 <!--
