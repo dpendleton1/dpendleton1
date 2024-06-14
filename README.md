@@ -3,6 +3,10 @@
 Fisheries Biologist in the Whale Ecology Branch at the Northeast Fisheries Science Center<br>
 Adjunct Scientist at Bigelow Laboratories for Ocean Science
 
+<hr>
+
+I am a quantitative ecologist who is motivated by the desire conduct science that will inform resource management decisions and advance the conservation status of marine mammals. My primary research interests involve predicting past, present and future species distributions, understanding and predicting the dynamics of predators and prey abundance (e.g., whales and zooplankton), measuring phenological shifts, and assessing risks to marine mammals from human activities. Throughout my work, I combine data from marine mammal field work with measurements and predictions from earth orbiting satellites and ocean models.
+
 <!--
 
 ## Learn more about me! [Find my website here.](https://nmfs-openscapes.github.io/template_website_cv/)
