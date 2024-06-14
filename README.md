@@ -1,12 +1,14 @@
-# Dan Pendleton
-![](https://visitor-badge.laobi.icu/badge?page_id=nmfs-openscapes.nmfs-openscapes)
-[![Github](https://img.shields.io/github/followers/nmfs-openscapes?label=Follow&style=social)](https://github.com/nmfs-openscapes)
+# Dan Pendleton ![](https://visitor-badge.laobi.icu/badge?page_id=nmfs-openscapes.nmfs-openscapes) [![Github](https://img.shields.io/github/followers/nmfs-openscapes?label=Follow&style=social)](https://github.com/nmfs-openscapes)
 
-### Fisheries Biologist
+Fisheries Biologist, Northeast Fisheries Science Center, NOAA Fisheries, Woods Hole, MA & Orono, ME<br>
+Adjunct Scientist, Bigelow Laboratories for Ocean Science, East Boothbay, ME
 
-### NOAA Northeast Fisheries Science Center
+***
+%### Fisheries Biologist
 
-### Whale Ecology Branch
+%### NOAA Northeast Fisheries Science Center
+
+%### Whale Ecology Branch
 
 ## Learn more about me! [Find my website here.](https://nmfs-openscapes.github.io/template_website_cv/)
 
