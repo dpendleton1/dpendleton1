@@ -1,5 +1,4 @@
 # Dan Pendleton
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=nmfs-openscapes.nmfs-openscapes)
 [![Github](https://img.shields.io/github/followers/nmfs-openscapes?label=Follow&style=social)](https://github.com/nmfs-openscapes)
 
