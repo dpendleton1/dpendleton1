@@ -1,13 +1,13 @@
-# First Last Name
+# Dan Pendleton
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nmfs-openscapes.nmfs-openscapes)
 [![Github](https://img.shields.io/github/followers/nmfs-openscapes?label=Follow&style=social)](https://github.com/nmfs-openscapes)
 
-### Work Title 
+### Fisheries Biologist
 
-### Office
+### NOAA Northeast Fisheries Science Center
 
-### Subgroup in Office
+### Whale Ecology Branch
 
 ## Learn more about me! [Find my website here.](https://nmfs-openscapes.github.io/template_website_cv/)
 
